@@ -2,4 +2,4 @@
 Une demo de git
 dfsdf
 Et maintenant, on modifie
-Partout
+Partout et c'est cool
